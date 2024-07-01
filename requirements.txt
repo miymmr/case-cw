@@ -1,0 +1,6 @@
+pandas
+plotly
+statsmodels
+scikit-learn
+ipykernel
+nbformat
